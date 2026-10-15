@@ -1,0 +1,474 @@
+{
+  "campaign": "flyne-free-image-to-video-2026-10-15",
+  "image_count": 52,
+  "images": [
+    {
+      "article_id": "A01",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A01/00-cover-topic.png",
+      "sha256": "66a15bf6d7be10ecbc5207c5f372f131568020286c08ba2dddd3001c8b962229",
+      "bytes": 32982,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A01",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A01/01-lead-plan.png",
+      "sha256": "8904b8b801d652611140678854802f7527b8591532f94e71303af3bbe7920c5a",
+      "bytes": 43711,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A01",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A01/02-middle-method.png",
+      "sha256": "33b61fda52eb36116d26d5858b5462c0d64a0737112c8ef3caf123cffdb266fb",
+      "bytes": 47468,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A01",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A01/03-closing-check.png",
+      "sha256": "b6b6ec87bc8e6bd4942cdc8810a9da903bfd7ad4d5c00e18a27e1230b17518c4",
+      "bytes": 49295,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A02",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A02/00-cover-topic.png",
+      "sha256": "559a9f485f886f4f3de164083c890b1ae8786d66643f1433929c3e3186501d63",
+      "bytes": 33083,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A02",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A02/01-lead-plan.png",
+      "sha256": "0ff76f2b24c2738e5d61647e52e0e3bf6a7fbe1e7f4be4a5ec08918f9376e5eb",
+      "bytes": 54931,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A02",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A02/02-middle-method.png",
+      "sha256": "87df1196e6ae3071ca551762730e7bcf4cd417d503771367a01276245081952a",
+      "bytes": 49219,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A02",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A02/03-closing-check.png",
+      "sha256": "83cfede5a01ddaac29e405d5a3e9627c4026d6e10f73800f6f53c2c9100a0ecf",
+      "bytes": 52672,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A03",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A03/00-cover-topic.png",
+      "sha256": "c4692dc13d1f9d3698bfbafc19d8226b8f162e36768172b51aca374b953936b2",
+      "bytes": 33426,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A03",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A03/01-lead-plan.png",
+      "sha256": "d0a361428ea316242503d9cb02e0197751c66bc5bf6c538ed82f5c4370e712fd",
+      "bytes": 54494,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A03",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A03/02-middle-method.png",
+      "sha256": "c7670989fa22815d07d57394f05a462649a5476bbd6f30ad0e1983fcf66a9e35",
+      "bytes": 54769,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A03",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A03/03-closing-check.png",
+      "sha256": "e740f92e3b58dd3100491e102ff8f86f32d3411d8c4bc9b9030b77fb40ea009f",
+      "bytes": 50094,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A04",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A04/00-cover-topic.png",
+      "sha256": "fa2d6fc9bdbd93c557bc214f578577818578d1748f484014441df9973a1025c8",
+      "bytes": 32818,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A04",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A04/01-lead-plan.png",
+      "sha256": "71d56c2b17bbddf0f974618de6779a57551e7e3c64e575c51d21d07a46cb3fe1",
+      "bytes": 42490,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A04",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A04/02-middle-method.png",
+      "sha256": "170eba081486ecb79385e3845fcd539ec228c45be5928bf271278ce8667ca369",
+      "bytes": 45811,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A04",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A04/03-closing-check.png",
+      "sha256": "ad87772f1f10d5a6d292f313ebb06f9f3a22f4ddb01cc9272603659e2e8cf17e",
+      "bytes": 50486,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A05",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A05/00-cover-topic.png",
+      "sha256": "d7c5456b12afcdfb6d6ce60d8e519ca442ea8a9e3f2dc96a4f45788dfd75b461",
+      "bytes": 32914,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A05",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A05/01-lead-plan.png",
+      "sha256": "c57a88437441de7769c6227bb14b1a9a44d677714a1869e2b930188a139f43de",
+      "bytes": 45898,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A05",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A05/02-middle-method.png",
+      "sha256": "4e927a15ef5adf3d29a258024e12ae5a934ac8001ba506fc656d94ce9354ee86",
+      "bytes": 51117,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A05",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A05/03-closing-check.png",
+      "sha256": "bc2647cd3a42d916d14bf835e3b4ac558f7639e1354c8b37aaeb6c9b578d3f0f",
+      "bytes": 59739,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A06",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A06/00-cover-topic.png",
+      "sha256": "cb34e94f07df7c546f4e846956bd8ab077b170465dd2748c6d3278b3310130b3",
+      "bytes": 32488,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A06",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A06/01-lead-plan.png",
+      "sha256": "b5dbbe15bbd4c1993f5da7167c460d4752bd0c5633c7eb0a3f74deef48b4b227",
+      "bytes": 42403,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A06",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A06/02-middle-method.png",
+      "sha256": "25a38ccefcba159844fcf4d9b0932b8cd99eab574d66ff627a68a79085e62d87",
+      "bytes": 48386,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A06",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A06/03-closing-check.png",
+      "sha256": "79a39140f5a37cf00d0178ecb9d86c41341bf53c63354261ec9c94151aaede86",
+      "bytes": 56591,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A07",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A07/00-cover-topic.png",
+      "sha256": "afdee8eb48da19baa1fd7f93d745b97d90f2ade9a3a5ee227e6970ea2de4f82f",
+      "bytes": 27574,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A07",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A07/01-lead-plan.png",
+      "sha256": "65eb6e7269b929404abcf5a6dd2d9a978cab49e01496bfe6ca265560e6f0d2b4",
+      "bytes": 47469,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A07",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A07/02-middle-method.png",
+      "sha256": "e3279ae7b5f436cd236d6122385fd6eb3b702ed238c6f6ed94a934e4ea98d8ba",
+      "bytes": 47311,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A07",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A07/03-closing-check.png",
+      "sha256": "665b890e8431f79695894a2bfb007a9518397246b85bfe33932b69189e8aeb00",
+      "bytes": 49254,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A08",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A08/00-cover-topic.png",
+      "sha256": "4d8e16be609231a18b9166554062e2b6cacbb2b0dbedcdac4655d6a307c23657",
+      "bytes": 25861,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A08",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A08/01-lead-plan.png",
+      "sha256": "dd71c486ad531d5e25b062f43630a6b924a04ce08a8318cf1039c572edc87bd6",
+      "bytes": 35724,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A08",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A08/02-middle-method.png",
+      "sha256": "5b48be797c4e6845ed453ec587f8fbed8f5023b79e70d469fdaed5935146f5be",
+      "bytes": 48766,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A08",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A08/03-closing-check.png",
+      "sha256": "4f074c01f14fa46e98cc5d2c90f8c9431fad9ccf18885dea580ec988ff9fb9b7",
+      "bytes": 55639,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A09",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A09/00-cover-topic.png",
+      "sha256": "85643064f99cdafa4f5bc63e43a23b27f03b0542cada596f2e9f15bb39a4732f",
+      "bytes": 31971,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A09",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A09/01-lead-plan.png",
+      "sha256": "769f3b7e7da96848ac2160180ae29e6ed66f5566329d5e06333d7b7403ece86a",
+      "bytes": 50095,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A09",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A09/02-middle-method.png",
+      "sha256": "f8138a051809924ff1f44b275c6fe3cf3efe1adb9b51cf57005f7cf3a2fd5950",
+      "bytes": 57203,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A09",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A09/03-closing-check.png",
+      "sha256": "b2da2772e3954ee260f7e89280bfe28595c7cf0ce9847b18adab609e90a8a118",
+      "bytes": 57855,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A10",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A10/00-cover-topic.png",
+      "sha256": "d1e84cf628e1d15568541efe947b9f2c443f2c72b1b1faa1ffac2a70c3fce908",
+      "bytes": 51221,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A10",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A10/01-lead-plan.png",
+      "sha256": "5e6818e4917ace13de3084d6ed4e3f427aa0feae539f707aa063f77793f58b8a",
+      "bytes": 54506,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A10",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A10/02-middle-method.png",
+      "sha256": "9979c616663f7b36077dc8451e061fa9d10a339244714d6a1dab5c9bbe6f9298",
+      "bytes": 48800,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A10",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A10/03-closing-check.png",
+      "sha256": "795e9cf69c6c869a5b32c4a2aeb50e6d5b6f7c4f2a0d91f1df672d1a80a75552",
+      "bytes": 59161,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A11",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A11/00-cover-topic.png",
+      "sha256": "277f3d0583948a260f25ce823ba01f86e11c7a61211d110db696e7b47ae0abfe",
+      "bytes": 29456,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A11",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A11/01-lead-plan.png",
+      "sha256": "d7ffab1bff0034024ab2669ef0bbc043b6bf598b379a0f9b014d92bf8fa40cb5",
+      "bytes": 36797,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A11",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A11/02-middle-method.png",
+      "sha256": "e5037ea2cd8883b608fdd656ce0acb56cbe44f19c516f898d234eb586c49eada",
+      "bytes": 54252,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A11",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A11/03-closing-check.png",
+      "sha256": "48676e592f5fe8cb0cf28d807510240319c40e76a516581d2d208e070561a444",
+      "bytes": 53987,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A12",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A12/00-cover-topic.png",
+      "sha256": "e81f606a9d307b7bdd0d68b878ec058785779cbdc23cf2b683e562ec769f9499",
+      "bytes": 34935,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A12",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A12/01-lead-plan.png",
+      "sha256": "c706797617085bfed2b2b2c14d350e98325bad178836da305613a2de96c30a5e",
+      "bytes": 41293,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A12",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A12/02-middle-method.png",
+      "sha256": "80fac9c32d709c524f9c99bdb01a80fa84cddff60037133f4e1469107702031f",
+      "bytes": 42891,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A12",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A12/03-closing-check.png",
+      "sha256": "68631be580aa35e20ccd3be4334f59dc3ad459c5f2d37ee86e4e70982e843cef",
+      "bytes": 47265,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A13",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A13/00-cover-topic.png",
+      "sha256": "0d35e60ae8ebf6d5ff8eaf6b3421e75aa347c4f5c99b1df0c5172b1b8ffb9658",
+      "bytes": 28296,
+      "width": 1600,
+      "height": 900,
+      "role": "cover"
+    },
+    {
+      "article_id": "A13",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A13/01-lead-plan.png",
+      "sha256": "56435b06f774b422f0de5fce34c5bb3dcffc16c0686066a1e341def7b7a2351a",
+      "bytes": 36625,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A13",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A13/02-middle-method.png",
+      "sha256": "0dc990533ffbae0abf5ea4b16db1281d13c7d37875cb533338f8e43a83a5b11e",
+      "bytes": 50423,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    },
+    {
+      "article_id": "A13",
+      "repository_path": "flyne-free-image-to-video-2026-10-15/A13/03-closing-check.png",
+      "sha256": "edb80abc79bb4429e61140f1c133e60d3fdaba78edaaefafbe97a3a044976134",
+      "bytes": 56763,
+      "width": 1600,
+      "height": 900,
+      "role": "body"
+    }
+  ]
+}
