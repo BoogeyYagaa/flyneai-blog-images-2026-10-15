@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A11",
+    "role": "cover",
+    "file": "00-cover-choice.png",
+    "sha256": "087c9417dfac766e7ba708ece5b7e55b00aa718b2b6755f36104f4bbeafd1482"
+  },
+  {
+    "article_id": "A11",
+    "role": "body",
+    "file": "01-lead-chair.png",
+    "sha256": "577a2b29797fd0f5ab2b405f450985c76568eff653c87385905161cd37b17c41"
+  },
+  {
+    "article_id": "A11",
+    "role": "body",
+    "file": "02-middle-choices.png",
+    "sha256": "51c959c66a30e7ea808fda169a8109b1107815fc5a44f0f565355297c5100056"
+  },
+  {
+    "article_id": "A11",
+    "role": "body",
+    "file": "03-closing-purpose.png",
+    "sha256": "00ca3461fe5bd67ac9dd53c6f1dd79e7217dcb2df6819b83d6cdfc79ed594d36"
+  }
+]

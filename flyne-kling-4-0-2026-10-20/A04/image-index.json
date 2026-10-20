@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A04",
+    "role": "cover",
+    "file": "00-cover-clear-sentence.png",
+    "sha256": "ab045dc362a6e1fb5e1837ef3fee4931fd73a93608e4ef2ddb5e54c76c05cee3"
+  },
+  {
+    "article_id": "A04",
+    "role": "body",
+    "file": "01-lead-two-readings.png",
+    "sha256": "10076adf562d03196c748f8c8cd3bc820b2bbe06f0b9347b776f5fc15a077e41"
+  },
+  {
+    "article_id": "A04",
+    "role": "body",
+    "file": "02-middle-two-movements.png",
+    "sha256": "250d19be0cb7b44523e3fe1781444c6b361bda61fbd7685f94764dc150d7db3c"
+  },
+  {
+    "article_id": "A04",
+    "role": "body",
+    "file": "03-closing-revision-ladder.png",
+    "sha256": "b55413297079343f85b0f79ac6f421b60bba4431e54312dcfe593d2badd1e48c"
+  }
+]

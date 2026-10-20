@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A06",
+    "role": "cover",
+    "file": "00-cover-lamp.png",
+    "sha256": "a0110caae56cb06deef60891e0639cabf36ebc9f1e32ca1af33c04576d6ab014"
+  },
+  {
+    "article_id": "A06",
+    "role": "body",
+    "file": "01-lead-story.png",
+    "sha256": "ed73f7b6c38ce3e3cacdad0c80ab1c6eca9b55da8d38dc27239f42207a1bee8d"
+  },
+  {
+    "article_id": "A06",
+    "role": "body",
+    "file": "02-middle-turn.png",
+    "sha256": "f128d46dc5317a326d56daae13576e984ba4aa26f320f65b3f721bb68f8e991d"
+  },
+  {
+    "article_id": "A06",
+    "role": "body",
+    "file": "03-closing-shots.png",
+    "sha256": "57d4d0d248f0c1910d8c61928c8660dd60e498d4d65f40704ef0f6a79e3dbfc7"
+  }
+]

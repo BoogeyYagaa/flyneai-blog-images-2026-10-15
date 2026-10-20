@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A16",
+    "role": "cover",
+    "file": "00-cover-storyboard.png",
+    "sha256": "c4fd540b4e2b977a164b758da0b630b20ea206bb4bc869da802c132bb2c8a728"
+  },
+  {
+    "article_id": "A16",
+    "role": "body",
+    "file": "01-lead-tool.png",
+    "sha256": "de918a4f2e48fdf1c66cc14fbd7357a0bf2f2f152233627cf2e365795c92491e"
+  },
+  {
+    "article_id": "A16",
+    "role": "body",
+    "file": "02-middle-mapping.png",
+    "sha256": "55d02d07a09c345020c05b7265de65d3331c3ef91ee158e18381f952141f31ea"
+  },
+  {
+    "article_id": "A16",
+    "role": "body",
+    "file": "03-closing-feedback.png",
+    "sha256": "5cd605352214262f522745d4be6f157fd88082a3020bff3882e2f00dea36940d"
+  }
+]

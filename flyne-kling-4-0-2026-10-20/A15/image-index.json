@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A15",
+    "role": "cover",
+    "file": "00-cover-jsonl.png",
+    "sha256": "6a44a6859e90b0e9c93c363fb139b37d09ea69ef7717465cc13a67b3f13a0fb7"
+  },
+  {
+    "article_id": "A15",
+    "role": "body",
+    "file": "01-lead-schema.png",
+    "sha256": "a1f914eb2012a6d69514fec7ab1b0271dcf3bc90c1ba66f5195679853dcf58ca"
+  },
+  {
+    "article_id": "A15",
+    "role": "body",
+    "file": "02-middle-errors.png",
+    "sha256": "28fbae4fb40251a6e0c05ca6b63f52e5e397dc191502bca309cb0f97fe298684"
+  },
+  {
+    "article_id": "A15",
+    "role": "body",
+    "file": "03-closing-report.png",
+    "sha256": "e42ca987dfcf9cd6075ebe1e066c739a343a024b665f9980717d840c4c4ec914"
+  }
+]
