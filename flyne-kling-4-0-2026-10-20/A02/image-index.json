@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A02",
+    "role": "cover",
+    "file": "00-cover-instrumental.png",
+    "sha256": "2a83e5469c1bfe14cf47456390c567f2bae8fb23d2352736c3cddc004ff919f1"
+  },
+  {
+    "article_id": "A02",
+    "role": "body",
+    "file": "01-lead-cue-map.png",
+    "sha256": "9fdbafa4a9bbc96abef6bdc8f0aac4246170df9f1fa2ee293bc02e00070b1473"
+  },
+  {
+    "article_id": "A02",
+    "role": "body",
+    "file": "02-middle-light-storyboard.png",
+    "sha256": "2d3b64ff6e696d7c17098c4bdf4c47f11656bb164f9da22c6ebc35ab716bdec8"
+  },
+  {
+    "article_id": "A02",
+    "role": "body",
+    "file": "03-closing-model-questions.png",
+    "sha256": "e030a8bb2e3b23f52dad73a71c33e5c8c67e6ada3c749dddaa305eada83595b4"
+  }
+]
