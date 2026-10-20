@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A03",
+    "role": "cover",
+    "file": "00-cover-essay-scene.png",
+    "sha256": "824e7eb3aacf9ff742b5fceb29bcddc43e964ee03ec90973a88e372144032602"
+  },
+  {
+    "article_id": "A03",
+    "role": "body",
+    "file": "01-lead-reading-the-passage.png",
+    "sha256": "c8acdd52af4c40c0dfb50e2189cafd211ce590362a57e4c36951c46247abb9a0"
+  },
+  {
+    "article_id": "A03",
+    "role": "body",
+    "file": "02-middle-adaptation-choice.png",
+    "sha256": "a84a2fe51ac60baec399700fe0e155e96754427ac5809a97acf4d1262405d72e"
+  },
+  {
+    "article_id": "A03",
+    "role": "body",
+    "file": "03-closing-division-of-work.png",
+    "sha256": "fb66a68c80704759929cd3f57a55feb76782fa5ac74c889aae84406005a7a62b"
+  }
+]

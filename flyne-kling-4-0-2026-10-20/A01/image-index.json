@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A01",
+    "role": "cover",
+    "file": "00-cover-portable.png",
+    "sha256": "08b9d71254d500040a6969abdd644ee091fdc63789f64523737818f383f8a959"
+  },
+  {
+    "article_id": "A01",
+    "role": "body",
+    "file": "01-lead-package.png",
+    "sha256": "b6256826b2633471b6b884eee58cd6bc363750273e7838a36be52a55714175bf"
+  },
+  {
+    "article_id": "A01",
+    "role": "body",
+    "file": "02-middle-links.png",
+    "sha256": "98d0f796e7c7f6b74186016c691100e6ec505e4543e826d91c6f00d1de49db4c"
+  },
+  {
+    "article_id": "A01",
+    "role": "body",
+    "file": "03-closing-restore.png",
+    "sha256": "2a1c26fd91414eca4edaa1867b696d64031ceedfd288fd887fc2670404f0878f"
+  }
+]

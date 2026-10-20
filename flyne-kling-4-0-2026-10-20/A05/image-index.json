@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A05",
+    "role": "cover",
+    "file": "00-cover-fair-comparison.png",
+    "sha256": "8243c91116226d16c1bf9d1301f0f38f406e6f57dcd2e4417909fc1ac33c990a"
+  },
+  {
+    "article_id": "A05",
+    "role": "body",
+    "file": "01-lead-shared-reveal.png",
+    "sha256": "6ef35ee302c9e168cc47974912c73b5b77148dfc14d0e42e9fe7efa3987b351e"
+  },
+  {
+    "article_id": "A05",
+    "role": "body",
+    "file": "02-middle-comparison-conditions.png",
+    "sha256": "ddc7782e352eac74860aea752b7f8195e10c7c981792701f4f45e045b43e0759"
+  },
+  {
+    "article_id": "A05",
+    "role": "body",
+    "file": "03-closing-unrun-log.png",
+    "sha256": "3a3321c6cdd479741f75bd69da5891caa378089009d8a0803460656b174bdb15"
+  }
+]
