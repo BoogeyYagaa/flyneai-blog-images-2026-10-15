@@ -1,0 +1,26 @@
+[
+  {
+    "article_id": "A08",
+    "role": "cover",
+    "file": "00-cover-handoff.png",
+    "sha256": "4a0ea09cfe3444a54148336af30aae5c1095b8957aa90f5e9bd0b9cd5055dbe2"
+  },
+  {
+    "article_id": "A08",
+    "role": "body",
+    "file": "01-lead-layout.png",
+    "sha256": "41fa05fde496cd31a34458c56b87fdbf9e2b6e95da565c25bde24a36804f1cd1"
+  },
+  {
+    "article_id": "A08",
+    "role": "body",
+    "file": "02-middle-brief.png",
+    "sha256": "2dbd6fc72850e6999fa1b8c1de5960224869d49df660fbcbc88ef11905ecdb72"
+  },
+  {
+    "article_id": "A08",
+    "role": "body",
+    "file": "03-closing-change.png",
+    "sha256": "10762e61527ac25de0bf7326ce0cfa9447dcc45ad6340f4e15fef37237c38c37"
+  }
+]
